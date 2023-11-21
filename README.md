@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **souravjha9599@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PRPSXVcW3MvemErmbOXs3W6BYomyRiZE/view](https://drive.google.com/file/d/1PRPSXVcW3MvemErmbOXs3W6BYomyRiZE/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/souravjha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souravjha_" height="30" width="40" /></a>
