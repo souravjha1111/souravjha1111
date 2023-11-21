@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/souravjha_" target="blank"><img src="https://img.shields.io/twitter/follow/souravjha_?logo=twitter&style=for-the-badge" alt="souravjha_" /></a> </p>
 
-- 💬 Ask me about **#Python #Django #Backend**
+- 💬 Ask me about **#Python #C# #TypeScript #Django #Backend**
 
 - 📫 How to reach me **souravjha9599@gmail.com**
 
